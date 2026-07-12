@@ -1,4 +1,4 @@
-# 🌤 Weather Web Application
+# 🌤️ Weather Web Application
 
 ## 📌 Project Overview
 
@@ -10,46 +10,28 @@ This project was developed as **Task 05** of the **Prodigy InfoTech Web Developm
 
 ## ✨ Features
 
-- 🔍 Search weather by city name
-- 📍 Get weather using current location
-- 🌡️ Display current temperature
-- 🤗 Display "Feels Like" temperature
-- 💧 Display humidity
-- 🌬️ Display wind speed
-- 📊 Display atmospheric pressure
-- 🌤️ Weather condition with icon
-- 🕒 Live date and time
-- 🎨 Dynamic background based on weather conditions
-- 📱 Fully responsive design
-- ✨ Modern Glassmorphism User Interface
+- Search weather by city name
+- Get weather using current location
+- Display current temperature
+- Display "Feels Like" temperature
+- Display humidity
+- Display wind speed
+- Display atmospheric pressure
+- Display weather condition with icon
+- Live date and time
+- Dynamic background based on weather conditions
+- Fully responsive design
+- Modern Glassmorphism User Interface
 
 ---
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 - OpenWeather API
 - Font Awesome
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone or download this repository.
-2. Open the project in Visual Studio Code.
-3. Open the `script.js` file.
-4. Replace:
-
-```javascript
-const apiKey = "YOUR_API_KEY";
-```
-
-with your own OpenWeather API key.
-
-5. Save the file.
-6. Open `index.html` in your browser.
 
 ---
 
@@ -68,16 +50,15 @@ PRODIGY_WD_05/
 
 ## 📚 Learning Outcomes
 
-During the development of this project, I learned:
+During this project, I gained practical experience in:
 
 - Working with REST APIs
-- Using the Fetch API to retrieve data
-- Handling asynchronous operations with `async` and `await`
+- Fetching data using the Fetch API
 - DOM Manipulation
 - JavaScript Event Handling
 - Geolocation API
 - Responsive Web Design
-- Creating modern and interactive user interfaces
+- Building modern and interactive user interfaces
 
 ---
 
@@ -85,7 +66,7 @@ During the development of this project, I learned:
 
 **Task 05 – Weather Web Application**
 
-Develop a weather web application that fetches weather data from a weather API based on the user's location or a user-entered location. Display the current weather conditions, temperature, and other relevant weather information using HTML, CSS, and JavaScript.
+Build a weather web application that fetches weather data from a weather API based on the user's location or a user-entered location. Display the current weather conditions, temperature, and other relevant weather information using HTML, CSS, and JavaScript.
 
 ---
 
@@ -95,9 +76,3 @@ Develop a weather web application that fetches weather data from a weather API b
 
 Web Development Intern  
 Prodigy InfoTech
-
----
-
-## 📄 License
-
-This project is created for educational purposes as part of the **Prodigy InfoTech Web Development Internship**.
